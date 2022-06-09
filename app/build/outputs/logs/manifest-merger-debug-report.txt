@@ -1,0 +1,483 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:1-35:12
+MERGED from [androidx.databinding:databinding-adapters:7.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\67e46e4c857d06b237e1569dcbefb512\transformed\databinding-adapters-7.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:7.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\469abe9a658ea15ef259fc68ecbf6a9e\transformed\databinding-runtime-7.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\98da5bd58be7a72b4b5558078fa2fc77\transformed\jetified-viewbinding-7.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\8c29d8d232a397cbcb08ef6bc55e528e\transformed\navigation-ui-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5c0427591d4db6814febb043a2f072d4\transformed\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ea5e60c3686267a8822c026b26aad880\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5bf68525f79b1e4dc06553f1b2378a5b\transformed\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d15973189b9f04fef6a2e7626e4d68f8\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e217f05df36f6bb77b501a45cccdc9d8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d88ddcc08e5f007b512e8e917362b415\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e2a4c08a41d4d51d81f785d99013d8ba\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c4f87182f75fcfa9849091440db89348\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\b2697ed28817d5a4c77bb9906cd4f26c\transformed\navigation-fragment-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ad5899c312b35f2583dfe42a96439a93\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] D:\Games\FoodApp Project - Final Version\caches\transforms-3\13b91df123a0bde160a2fccb8787c2da\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\52ba56bebb4f43bee9c42201f1d341f8\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\704629ba4ce38e035fc60c7b94de2a36\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\945f8f2ba5cc6d774209ba46c5f199c1\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d79e96dba7b76cbad6f18827a5c982b4\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c3761e0b4f7a94c94214162abb44e44c\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e3b695d8d8de0fe3bad6254509799f13\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d6eef8875138dba5cdca5d0e409bed25\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\be38cd6b50b2e40fb5f904b23dfa0569\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.2.4] D:\Games\FoodApp Project - Final Version\caches\transforms-3\17ff18b399bdbdbbc4e556a54bc8c780\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ee4382a350a8ccefb7f07dbbefb73e25\transformed\navigation-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\7138e5660a2a20c946d6c3c62e865649\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1eeb2bddd0501a2319ef7d209cb7581b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1e2676f7a2d14b6d64865a303bb1f1fc\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\19dea34dbca291c6fbe5b2a718fa8b36\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\9c9aa5936d921ef81e7eb7aeb29b2140\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\18b28dd899355ab2e619804cdb236778\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\709b5efbb275745085268ee87dcf4cd3\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\db883a7bdafef1e601e9f74a8c011ef7\transformed\transition-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\0e32e393dd697b337822f1419b2cfbd8\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\6c5d7ade91247aef217401a564b9fd59\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4f8ac1fe5df60c51f89efe00d64ceb23\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\72af3184c0deead162cf4aebe43bed4c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\fb2c5e10a360a0cc27dd96d6f336003b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\3f4b00aeee4877d75b0c4b78e5c2e012\transformed\drawerlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\115e039c0df685c0ed14fe4e873fcaf7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\9a44d335f6fe5ccf34c68da29b61029a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\b660e84c9da00ed807cadf384c18d8c3\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\73c10afbbcca787a88185c67f3e0ca35\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\8aae4730a39bac62a50b70fc5a254c73\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1784ea73760453ca5291fac50adcd8d5\transformed\navigation-common-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4492eb4c537a1d8d29c593f786061663\transformed\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\22182cdffc958dd71c09081508e97c3e\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5ed159af903c00c4e87c9a87e8c10c47\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c600b6026b8c6f88240cc4dc9559f5b6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\39be0fc3013fd9569ee1f16ad4970003\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\06658db586772d6df7727a3d1ba247a0\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a8e860740054b0677fe9dc717a926c69\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d71e71b7b46642b904cc59a13ae85514\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ec0ddd22114b75940f481234c87b841c\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1e08a223e491fa558304f72e1a08f1a2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\9bdc65c9bb00b04bb00613707b2b68f7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\8213e40d7f9fc8fc2a486dd498b4cf85\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\6cd50dde4ca4aa61b4948ea2b2f65399\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\7e3e7b6f41f135a590f4bcf9d660f0ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:1-35:12
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:27:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:7:5-33:19
+MERGED from [com.google.android.material:material:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5c0427591d4db6814febb043a2f072d4\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5c0427591d4db6814febb043a2f072d4\transformed\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5bf68525f79b1e4dc06553f1b2378a5b\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5bf68525f79b1e4dc06553f1b2378a5b\transformed\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e2a4c08a41d4d51d81f785d99013d8ba\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e2a4c08a41d4d51d81f785d99013d8ba\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ad5899c312b35f2583dfe42a96439a93\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ad5899c312b35f2583dfe42a96439a93\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] D:\Games\FoodApp Project - Final Version\caches\transforms-3\13b91df123a0bde160a2fccb8787c2da\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] D:\Games\FoodApp Project - Final Version\caches\transforms-3\13b91df123a0bde160a2fccb8787c2da\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:24:5-20
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\52ba56bebb4f43bee9c42201f1d341f8\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\52ba56bebb4f43bee9c42201f1d341f8\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:27:5-35:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:14:5-22:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\945f8f2ba5cc6d774209ba46c5f199c1\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\945f8f2ba5cc6d774209ba46c5f199c1\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d79e96dba7b76cbad6f18827a5c982b4\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d79e96dba7b76cbad6f18827a5c982b4\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c3761e0b4f7a94c94214162abb44e44c\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c3761e0b4f7a94c94214162abb44e44c\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e3b695d8d8de0fe3bad6254509799f13\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e3b695d8d8de0fe3bad6254509799f13\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d6eef8875138dba5cdca5d0e409bed25\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d6eef8875138dba5cdca5d0e409bed25\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\be38cd6b50b2e40fb5f904b23dfa0569\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\be38cd6b50b2e40fb5f904b23dfa0569\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4492eb4c537a1d8d29c593f786061663\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4492eb4c537a1d8d29c593f786061663\transformed\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d71e71b7b46642b904cc59a13ae85514\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d71e71b7b46642b904cc59a13ae85514\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\7e3e7b6f41f135a590f4bcf9d660f0ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\7e3e7b6f41f135a590f4bcf9d660f0ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4492eb4c537a1d8d29c593f786061663\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:11:9-41
+	android:icon
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:9:9-36
+	android:allowBackup
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.shoppingcart.Activities.Boisson_Class
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:15:13-53
+activity#com.example.shoppingcart.Activities.Dessert_Class
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:18:13-53
+activity#com.example.shoppingcart.Activities.Plat_principal_Class
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:20:9-22:40
+	android:exported
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:22:13-37
+	android:name
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:21:13-60
+activity#com.example.shoppingcart.Activities.Entree_Class
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:24:13-52
+activity#com.example.shoppingcart.views.MainActivity
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:26:9-32:20
+	android:name
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:26:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\67e46e4c857d06b237e1569dcbefb512\transformed\databinding-adapters-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-adapters:7.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\67e46e4c857d06b237e1569dcbefb512\transformed\databinding-adapters-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\469abe9a658ea15ef259fc68ecbf6a9e\transformed\databinding-runtime-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:databinding-runtime:7.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\469abe9a658ea15ef259fc68ecbf6a9e\transformed\databinding-runtime-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\98da5bd58be7a72b4b5558078fa2fc77\transformed\jetified-viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\98da5bd58be7a72b4b5558078fa2fc77\transformed\jetified-viewbinding-7.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\8c29d8d232a397cbcb08ef6bc55e528e\transformed\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\8c29d8d232a397cbcb08ef6bc55e528e\transformed\navigation-ui-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5c0427591d4db6814febb043a2f072d4\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5c0427591d4db6814febb043a2f072d4\transformed\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ea5e60c3686267a8822c026b26aad880\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ea5e60c3686267a8822c026b26aad880\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5bf68525f79b1e4dc06553f1b2378a5b\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5bf68525f79b1e4dc06553f1b2378a5b\transformed\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d15973189b9f04fef6a2e7626e4d68f8\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d15973189b9f04fef6a2e7626e4d68f8\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e217f05df36f6bb77b501a45cccdc9d8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e217f05df36f6bb77b501a45cccdc9d8\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d88ddcc08e5f007b512e8e917362b415\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d88ddcc08e5f007b512e8e917362b415\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e2a4c08a41d4d51d81f785d99013d8ba\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e2a4c08a41d4d51d81f785d99013d8ba\transformed\jetified-firebase-analytics-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c4f87182f75fcfa9849091440db89348\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c4f87182f75fcfa9849091440db89348\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\b2697ed28817d5a4c77bb9906cd4f26c\transformed\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\b2697ed28817d5a4c77bb9906cd4f26c\transformed\navigation-fragment-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ad5899c312b35f2583dfe42a96439a93\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ad5899c312b35f2583dfe42a96439a93\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] D:\Games\FoodApp Project - Final Version\caches\transforms-3\13b91df123a0bde160a2fccb8787c2da\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.0.0-beta02] D:\Games\FoodApp Project - Final Version\caches\transforms-3\13b91df123a0bde160a2fccb8787c2da\transformed\jetified-firebase-appcheck-interop-16.0.0-beta02\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\52ba56bebb4f43bee9c42201f1d341f8\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\52ba56bebb4f43bee9c42201f1d341f8\transformed\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\704629ba4ce38e035fc60c7b94de2a36\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-installations-interop:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\704629ba4ce38e035fc60c7b94de2a36\transformed\jetified-firebase-installations-interop-17.0.1\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\945f8f2ba5cc6d774209ba46c5f199c1\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\945f8f2ba5cc6d774209ba46c5f199c1\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d79e96dba7b76cbad6f18827a5c982b4\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d79e96dba7b76cbad6f18827a5c982b4\transformed\jetified-play-services-measurement-sdk-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c3761e0b4f7a94c94214162abb44e44c\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c3761e0b4f7a94c94214162abb44e44c\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e3b695d8d8de0fe3bad6254509799f13\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e3b695d8d8de0fe3bad6254509799f13\transformed\jetified-play-services-measurement-base-21.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d6eef8875138dba5cdca5d0e409bed25\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d6eef8875138dba5cdca5d0e409bed25\transformed\jetified-play-services-stats-17.0.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\be38cd6b50b2e40fb5f904b23dfa0569\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\be38cd6b50b2e40fb5f904b23dfa0569\transformed\jetified-firebase-measurement-connector-19.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.2.4] D:\Games\FoodApp Project - Final Version\caches\transforms-3\17ff18b399bdbdbbc4e556a54bc8c780\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] D:\Games\FoodApp Project - Final Version\caches\transforms-3\17ff18b399bdbdbbc4e556a54bc8c780\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ee4382a350a8ccefb7f07dbbefb73e25\transformed\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ee4382a350a8ccefb7f07dbbefb73e25\transformed\navigation-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\7138e5660a2a20c946d6c3c62e865649\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\7138e5660a2a20c946d6c3c62e865649\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1eeb2bddd0501a2319ef7d209cb7581b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1eeb2bddd0501a2319ef7d209cb7581b\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1e2676f7a2d14b6d64865a303bb1f1fc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1e2676f7a2d14b6d64865a303bb1f1fc\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\19dea34dbca291c6fbe5b2a718fa8b36\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\19dea34dbca291c6fbe5b2a718fa8b36\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\9c9aa5936d921ef81e7eb7aeb29b2140\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\9c9aa5936d921ef81e7eb7aeb29b2140\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\18b28dd899355ab2e619804cdb236778\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\18b28dd899355ab2e619804cdb236778\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\709b5efbb275745085268ee87dcf4cd3\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\709b5efbb275745085268ee87dcf4cd3\transformed\lifecycle-livedata-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\db883a7bdafef1e601e9f74a8c011ef7\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\db883a7bdafef1e601e9f74a8c011ef7\transformed\transition-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\0e32e393dd697b337822f1419b2cfbd8\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\0e32e393dd697b337822f1419b2cfbd8\transformed\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\6c5d7ade91247aef217401a564b9fd59\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\6c5d7ade91247aef217401a564b9fd59\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4f8ac1fe5df60c51f89efe00d64ceb23\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4f8ac1fe5df60c51f89efe00d64ceb23\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\72af3184c0deead162cf4aebe43bed4c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\72af3184c0deead162cf4aebe43bed4c\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\fb2c5e10a360a0cc27dd96d6f336003b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\fb2c5e10a360a0cc27dd96d6f336003b\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\3f4b00aeee4877d75b0c4b78e5c2e012\transformed\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\3f4b00aeee4877d75b0c4b78e5c2e012\transformed\drawerlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\115e039c0df685c0ed14fe4e873fcaf7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\115e039c0df685c0ed14fe4e873fcaf7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\9a44d335f6fe5ccf34c68da29b61029a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\9a44d335f6fe5ccf34c68da29b61029a\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\b660e84c9da00ed807cadf384c18d8c3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\b660e84c9da00ed807cadf384c18d8c3\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\73c10afbbcca787a88185c67f3e0ca35\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\73c10afbbcca787a88185c67f3e0ca35\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\8aae4730a39bac62a50b70fc5a254c73\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\8aae4730a39bac62a50b70fc5a254c73\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1784ea73760453ca5291fac50adcd8d5\transformed\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1784ea73760453ca5291fac50adcd8d5\transformed\navigation-common-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4492eb4c537a1d8d29c593f786061663\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4492eb4c537a1d8d29c593f786061663\transformed\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\22182cdffc958dd71c09081508e97c3e\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\22182cdffc958dd71c09081508e97c3e\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5ed159af903c00c4e87c9a87e8c10c47\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5ed159af903c00c4e87c9a87e8c10c47\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c600b6026b8c6f88240cc4dc9559f5b6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c600b6026b8c6f88240cc4dc9559f5b6\transformed\jetified-firebase-components-17.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\39be0fc3013fd9569ee1f16ad4970003\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\39be0fc3013fd9569ee1f16ad4970003\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\06658db586772d6df7727a3d1ba247a0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\06658db586772d6df7727a3d1ba247a0\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a8e860740054b0677fe9dc717a926c69\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a8e860740054b0677fe9dc717a926c69\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d71e71b7b46642b904cc59a13ae85514\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\d71e71b7b46642b904cc59a13ae85514\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ec0ddd22114b75940f481234c87b841c\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\ec0ddd22114b75940f481234c87b841c\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1e08a223e491fa558304f72e1a08f1a2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\1e08a223e491fa558304f72e1a08f1a2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\9bdc65c9bb00b04bb00613707b2b68f7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\9bdc65c9bb00b04bb00613707b2b68f7\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\8213e40d7f9fc8fc2a486dd498b4cf85\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\8213e40d7f9fc8fc2a486dd498b4cf85\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\6cd50dde4ca4aa61b4948ea2b2f65399\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\6cd50dde4ca4aa61b4948ea2b2f65399\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\7e3e7b6f41f135a590f4bcf9d660f0ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\7e3e7b6f41f135a590f4bcf9d660f0ed\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+		ADDED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:28:9-34:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:15:9-21:19
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:31:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:34:17-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c3761e0b4f7a94c94214162abb44e44c\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\c3761e0b4f7a94c94214162abb44e44c\transformed\jetified-play-services-ads-identifier-18.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\df026a541c5b0de0b11576df5c489d9d\transformed\jetified-play-services-measurement-sdk-api-21.0.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:22-76
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:31:13-33:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:32:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a1150f985383b9b834d05c620f80058d\transformed\jetified-play-services-measurement-impl-21.0.0\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:40:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58

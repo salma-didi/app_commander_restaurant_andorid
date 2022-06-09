@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_pizza.jpg.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/pizza.jpg"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_cart_row.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/cart_row.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_activity_main_dessert.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/activity_main_dessert.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-anydpi-v21_ic_baseline_shopping_cart_24.xml.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-anydpi-v21/ic_baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/font_open_sans.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/font/open_sans.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_activity_main_entree.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/activity_main_entree.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_macaron.jpg.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/macaron.jpg"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/navigation_nav_graph.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_boisson.jpg.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/boisson.jpg"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/menu_main_menu.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/menu/main_menu.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_iphone11.jpeg.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/iphone11.jpeg"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-xxxhdpi_logo.webp.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-xxxhdpi/logo.webp"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_plat_principal.jpg.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/plat_principal.jpg"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_fragment_cart.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/fragment_cart.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-mdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-mdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-ldpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-ldpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/anim_slide_out_left.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/anim/slide_out_left.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_activity_main_boisson.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/activity_main_boisson.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-hdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-hdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_cart_action_item.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/cart_action_item.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-xhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-xhdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/anim_slide_out_right.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-ldpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-ldpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-xxxhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-xxxhdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-hdpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-hdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/font_open_sans_italic.ttf.flat",
+        "source": "com.example.shoppingcart.app-main-31:/font/open_sans_italic.ttf"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_fragment_product_detail.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/fragment_product_detail.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/font_open_sans_regular.ttf.flat",
+        "source": "com.example.shoppingcart.app-main-31:/font/open_sans_regular.ttf"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_hamburger.jpeg.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/hamburger.jpeg"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-xxxhdpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-xxxhdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-mdpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-mdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-anydpi-v21_ic_baseline_delete_24.xml.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-anydpi-v21/ic_baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_shop_row.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/shop_row.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-xxhdpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-xxhdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_creme_chocolat.jpeg.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/creme_chocolat.jpeg"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-xhdpi_ic_baseline_delete_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-xhdpi/ic_baseline_delete_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_fragment_shop.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/fragment_shop.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_entree.jpeg.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/entree.jpeg"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/anim_slide_in_left.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/anim/slide_in_left.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_activity_main_plat_principal.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/activity_main_plat_principal.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/layout_fragment_order.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/layout/fragment_order.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable-xxhdpi_ic_baseline_shopping_cart_24.png.flat",
+        "source": "com.example.shoppingcart.app-pngs-24:/drawable-xxhdpi/ic_baseline_shopping_cart_24.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.shoppingcart.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_dessert.jpg.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/dessert.jpg"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/anim_slide_in_right.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "com.example.shoppingcart.app-merged_res-29:/drawable_badge_shape.xml.flat",
+        "source": "com.example.shoppingcart.app-main-31:/drawable/badge_shape.xml"
+    }
+]

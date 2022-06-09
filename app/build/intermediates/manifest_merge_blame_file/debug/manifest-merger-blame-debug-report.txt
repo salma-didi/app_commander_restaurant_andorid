@@ -1,0 +1,176 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.shoppingcart"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:5:5-66
+11-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:5:22-64
+12
+13    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+14    <!-- <uses-sdk android:minSdkVersion="14"/> -->
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->[com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:5-79
+15-->[com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:26:22-76
+16    <uses-permission android:name="android.permission.WAKE_LOCK" />
+16-->[com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:5-68
+16-->[com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:24:22-65
+17    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+17-->[com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:5-79
+17-->[com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:25:22-76
+18    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+18-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:5-110
+18-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:26:22-107
+19
+20    <application
+20-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:7:5-33:19
+21        android:allowBackup="true"
+21-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:8:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.3.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4492eb4c537a1d8d29c593f786061663\transformed\core-1.3.0\AndroidManifest.xml:24:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/logo"
+24-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:9:9-36
+25        android:label="@string/app_name"
+25-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:10:9-41
+26        android:roundIcon="@mipmap/logo"
+26-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:11:9-41
+27        android:supportsRtl="true"
+27-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:12:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme" >
+29-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:13:9-40
+30        <activity
+30-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:14:9-16:40
+31            android:name="com.example.shoppingcart.Activities.Boisson_Class"
+31-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:15:13-53
+32            android:exported="false" />
+32-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:16:13-37
+33        <activity
+33-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:17:9-19:40
+34            android:name="com.example.shoppingcart.Activities.Dessert_Class"
+34-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:18:13-53
+35            android:exported="false" />
+35-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:19:13-37
+36        <activity
+36-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:20:9-22:40
+37            android:name="com.example.shoppingcart.Activities.Plat_principal_Class"
+37-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:21:13-60
+38            android:exported="false" />
+38-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:22:13-37
+39        <activity
+39-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:23:9-25:40
+40            android:name="com.example.shoppingcart.Activities.Entree_Class"
+40-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:24:13-52
+41            android:exported="false" />
+41-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:25:13-37
+42        <activity android:name="com.example.shoppingcart.views.MainActivity" >
+42-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:26:9-32:20
+42-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:26:19-53
+43            <intent-filter>
+43-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:27:13-31:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:28:17-69
+44-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:28:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:30:17-77
+46-->D:\Studies\Mon cours\S4\Projects\Android\FoodApp Project\app\src\main\AndroidManifest.xml:30:27-74
+47            </intent-filter>
+48        </activity>
+49
+50        <service
+50-->[com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:30:9-36:19
+51            android:name="com.google.firebase.components.ComponentDiscoveryService"
+51-->[com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:31:13-84
+52            android:directBootAware="true"
+52-->[com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:35:13-43
+53            android:exported="false" >
+53-->[com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:32:13-37
+54            <meta-data
+54-->[com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:33:13-35:85
+55                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+55-->[com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:34:17-107
+56                android:value="com.google.firebase.components.ComponentRegistrar" />
+56-->[com.google.firebase:firebase-storage:20.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\696fff2d30699efc92f0994bdf5946e5\transformed\jetified-firebase-storage-20.0.1\AndroidManifest.xml:35:17-82
+57            <meta-data
+57-->[com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:31:13-33:85
+58                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+58-->[com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:32:17-139
+59                android:value="com.google.firebase.components.ComponentRegistrar" />
+59-->[com.google.android.gms:play-services-measurement-api:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\abca199268512c8f766c0bf9da6a850b\transformed\jetified-play-services-measurement-api-21.0.0\AndroidManifest.xml:33:17-82
+60            <meta-data
+60-->[com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:18:13-20:85
+61                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+61-->[com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:19:17-127
+62                android:value="com.google.firebase.components.ComponentRegistrar" />
+62-->[com.google.firebase:firebase-installations:17.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e86efdbe9daa5d7351e73f207b28a0db\transformed\jetified-firebase-installations-17.0.1\AndroidManifest.xml:20:17-82
+63        </service>
+64
+65        <activity
+65-->[com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+66            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+66-->[com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+67            android:exported="false"
+67-->[com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+68            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+68-->[com.google.android.gms:play-services-base:18.0.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\e02dba5506e9fa8e4aaa30a01ca0238c\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+69
+70        <provider
+70-->[com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
+71            android:name="com.google.firebase.provider.FirebaseInitProvider"
+71-->[com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
+72            android:authorities="com.example.shoppingcart.firebaseinitprovider"
+72-->[com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
+73            android:directBootAware="true"
+73-->[com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
+74            android:exported="false"
+74-->[com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:30:13-37
+75            android:initOrder="100" />
+75-->[com.google.firebase:firebase-common:20.1.1] D:\Games\FoodApp Project - Final Version\caches\transforms-3\4d97ec530b7b039cf7dc78757c137c99\transformed\jetified-firebase-common-20.1.1\AndroidManifest.xml:31:13-36
+76
+77        <receiver
+77-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:29:9-33:20
+78            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+78-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:30:13-85
+79            android:enabled="true"
+79-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:31:13-35
+80            android:exported="false" >
+80-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:32:13-37
+81        </receiver>
+82
+83        <service
+83-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:35:9-38:40
+84            android:name="com.google.android.gms.measurement.AppMeasurementService"
+84-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:36:13-84
+85            android:enabled="true"
+85-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:37:13-35
+86            android:exported="false" />
+86-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:38:13-37
+87        <service
+87-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:39:9-43:72
+88            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+88-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:40:13-87
+89            android:enabled="true"
+89-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:41:13-35
+90            android:exported="false"
+90-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:42:13-37
+91            android:permission="android.permission.BIND_JOB_SERVICE" />
+91-->[com.google.android.gms:play-services-measurement:21.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\5000bc671a8f2424debba240b4d9b23e\transformed\jetified-play-services-measurement-21.0.0\AndroidManifest.xml:43:13-69
+92
+93        <meta-data
+93-->[com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+94            android:name="com.google.android.gms.version"
+94-->[com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+95            android:value="@integer/google_play_services_version" />
+95-->[com.google.android.gms:play-services-basement:18.0.0] D:\Games\FoodApp Project - Final Version\caches\transforms-3\a3826f87f02c7e8cbba48ae0552f2aca\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+96    </application>
+97
+98</manifest>
